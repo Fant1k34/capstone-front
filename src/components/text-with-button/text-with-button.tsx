@@ -4,10 +4,10 @@ import styles from './index.module.css'
 export const TextWithButton = () => {
     return (
         <div className={styles.mainStyle}>
-            <div>Тут текст</div>
+            <div>Some text</div>
             <button
-                onClick={() => console.log('Пример реакт приложения с нодой')}>
-                А вот тут кнопка
+                onClick={() => console.log('Example of application with node js')}>
+                Here is a button
             </button>
         </div>
     )

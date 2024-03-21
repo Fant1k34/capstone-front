@@ -1,6 +1,6 @@
 {
-    "name": "Front-template",
-    "description": "React template with Node.js",
+    "name": "capstone-front",
+    "description": "Capstone Front with Node.js",
     "version": "1.0.0",
     "license": "MIT",
     "scripts": {
